@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on [Rhymebook](https://arrangedgodly.com/rhymebook/)
+- 👯 I’m looking to collaborate on [Rhymebook](https://arrangedgodly.com/rhymebook-react/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio Site](https://arrangedgodly.com/portfolio/)
 
