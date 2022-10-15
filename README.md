@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrangedgodly&label=Profile%20views&color=0e75b6&style=flat" alt="arrangedgodly" /> </p>
 
-- 🔭 I’m currently working on [Artoffish](https://arrangedgodly.com/art-gallery/)
+- 🔭 I’m currently working on [Artoffish](https://arrangedgodly.com/art-gallery/) and [My Personal Website](https://graydonwasil.com/)
 
 - 🌱 I’m currently learning **Backend Development**
 
