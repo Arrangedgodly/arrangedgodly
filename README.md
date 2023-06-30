@@ -77,3 +77,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrangedgodly&show_icons=true&locale=en" alt="arrangedgodly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrangedgodly&" alt="arrangedgodly" /></p>
+
+[![Grady's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arrangedgodly)](https://github.com/arrangedgodly/github-readme-stats)
