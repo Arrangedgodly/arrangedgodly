@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrangedgodly&label=Profile%20views&color=0e75b6&style=flat" alt="arrangedgodly" /> </p>
 
-- 🔭 I’m currently working on [Artoffishal](https://arrangedgodly.com/art-gallery/) and [My Personal Website](https://graydonwasil.com/)
+- 🔭 I’m currently working on [RhymePage](https://rhymepage.com/) and [My Personal Website](https://graydonwasil.com/)
 
 - 🌱 I’m currently learning **Tailwind CSS, daisyUI, Vite, and Printful's API**
-
-- 👯 I’m looking to collaborate on [Rhymebook](https://rhymebook.graydonwasil.com/)
 
 - 💬 Ask me about **React, Node.js, and Full Stack Development**
 
