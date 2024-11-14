@@ -78,14 +78,6 @@
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 
- <h3 align="left">Coding Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrangedgodly&show_icons=true&locale=en" alt="arrangedgodly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrangedgodly&" alt="arrangedgodly" /></p>
-
-[![Grady's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arrangedgodly)](https://github-readme-stats.vercel.app/api/wakatime?username=arrangedgodly)
-
 <h3 align="left">Certifications:</h3>
 
 [Responsive Web Design](https://www.freecodecamp.org/certification/Graydon-Wasil/responsive-web-design)
