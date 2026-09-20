@@ -1,85 +1,56 @@
-<h1 align="center">Hi 👋, I'm Graydon Wasil</h1>
-<h3 align="center">A passionate full stack software developer from Denver, Colorado</h3>
+Hi, I'm Graydon Wasil 👋
+Full-stack developer · Music maker · Denver, Colorado
+I build browser-based music tools, playful experiments, and practical workflows for AI agents. I make music as Arranged Godly; a lot of my software starts with something I want to use while creating, collecting, or exploring an idea.
+Portfolio · Music & creative work · LinkedIn · Email
+Start here
+- 🎛️ BitBounce — Create patterns, arrange a song, build a visualizer, and bounce it. All in the browser, with experimental WebMCP agent control. Code
+- 🎙️ VOXCHAIN — Shape a live vocal-effects chain by hand or with a browser agent. Presets, editable effects, and human-controlled safety features. Code
+- 🤖 The Ultron Initiative — A showcase of my agent-coordination skills and the projects built with them. An ongoing experiment in phased workflows and human guardrails.
+- 🎬 Video Toolkit — Video-editing tools for humans and agents: inspect footage, build a validated edit plan, preview, and render with FFmpeg. CLI with optional MCP support.
+More projects
+Music, writing & collections
+- ✍️ RhymePage — Write lyrics, find rhymes, sync lines to audio, and rehearse with timed playback.
+- 🏎️ CarsDB — A searchable Mattel Pixar Cars catalog with collection tracking, wishlists, and ratings. Yes, the collection needed its own app.
+- 🎟️ bc-codes — Distribute Bandcamp download codes, one unused code per verified fan.
+Games
+- 🏰 Castle Storm — An idle army-builder and roguelite about overthrowing a regime, then dealing with the one you leave behind. Built in Godot.
+- ☢️ Valued Resident — An atompunk idle game with skill training, crafting, patrols, and offline progress. Built in Godot; currently pre-release.
+Interactive experiments
+- 🔌 Cords — A tactile patch-cable playground with rope physics, draggable modules, and satisfyingly unruly connections.
+- 🧵 Thread Art — Turn an image into adjustable, woven-looking thread art.
+- 🌀 LOOM — Explore cellular automata as an audiovisual instrument.
+<details>
+<summary>More browser experiments</summary>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrangedgodly&label=Profile%20views&color=0e75b6&style=flat" alt="arrangedgodly" /> </p>
+- Biome Generator — Generate terrain from elevation and moisture.
+- Terrarium — Explore how growing conditions shape a digital terrarium.
+- Traffic — Adjust signal timing and watch an intersection respond.
+- Interlocking Gear Animator — Build gear chains and watch motion travel through them.
+- Digital Harmonograph — Draw patterns from simulated swinging pendulums.
+- Blind Test — Compare font pairings before seeing their names.
+- How Votes Flow — Follow ranked-choice vote transfers through each elimination.
+- The Disappearing Draft — A writing experiment where stopping means risking your draft.
+- Reading Pacer — Turn a reading goal into a daily page target.
+- The Register — Send Morse-code messages through light, screen, and sound.
+</details>
 
-- 🔭 I’m currently working on [RhymePage](https://rhymepage.com/) and [My Personal Website](https://graydonwasil.com/)
+On the workbench
+Prototypes and ongoing explorations—not finished releases.
+- 💥 BlastDelay — A JUCE delay-plugin experiment where a pixel-art blast scatters repeat points. Find a pattern you like, then lock it. The standalone prototype is running.
+- 🪞 Mirror Avatar Studio — A reactive-avatar prototype exploring microphone-driven mouth animation, gaze, blinking, and fixed-grid tile substitutions.
+- 🎹 Ableton Move animation — A JavaScript recreation that assembles piece by piece, then demonstrates instrument lanes, sequencing, and sound.
+How I build
+I’m interested in software that makes its state visible, makes changes reversible, and leaves people in control—even when an agent is doing the work.
+Web: TypeScript, JavaScript, React, Node.js, Firebase, Tailwind CSS, Vite.
+Creative: Web Audio, Canvas, SVG, Godot / GDScript; currently exploring JUCE.
+Agents: Claude, ChatGPT, Gemini, GLM, WebMCP, and MCP-based tools.
+<details>
+<summary>Certifications</summary>
 
-- 🌱 I’m currently learning **Tailwind CSS, daisyUI, Vite, and Printful's API**
+freeCodeCamp:
+- Responsive Web Design
+- JavaScript Algorithms and Data Structures
+- Front End Development Libraries
+</details>
 
-- 💬 Ask me about **React, Node.js, and Full Stack Development**
-
-- 📫 How to reach me **graydonwasil@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/graydon-wasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="graydon-wasil" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-
-<h3 align="left">Hobbies:</h3>
-
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-
-<h3 align="left">Certifications:</h3>
-
-[Responsive Web Design](https://www.freecodecamp.org/certification/Graydon-Wasil/responsive-web-design)
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Graydon-Wasil/javascript-algorithms-and-data-structures)
-[Front End Development Libraries](https://www.freecodecamp.org/certification/Graydon-Wasil/front-end-development-libraries)
+Always interested in conversations about creative software, browser audio, and useful agent workflows. Say hello.
